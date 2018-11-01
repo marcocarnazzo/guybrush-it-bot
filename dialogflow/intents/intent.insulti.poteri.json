@@ -1,0 +1,29 @@
+{
+  "id": "fb14d79e-384e-45a6-bc4e-e79eeae3bf1a",
+  "name": "intent.insulti.poteri",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Sarei proprio nei guai se mai tu li usassi..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540587355,
+  "fallbackIntent": false,
+  "events": []
+}

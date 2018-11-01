@@ -1,0 +1,28 @@
+{
+  "id": "d8847f50-e91b-463c-a264-b13356760d00",
+  "name": "intent.insulti.fetente",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Certo, chi può avere un fiato più fetente di te!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540631324,
+  "fallbackIntent": false,
+  "events": []
+}

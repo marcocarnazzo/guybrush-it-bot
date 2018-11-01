@@ -1,0 +1,28 @@
+{
+  "id": "6d7f1579-b678-48f3-b93f-49ac40a4a9dd",
+  "name": "intent.insulti.stupido",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "È insultante che tu abbia usato questo insulto con me."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540589889,
+  "fallbackIntent": false,
+  "events": []
+}

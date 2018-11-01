@@ -1,0 +1,32 @@
+[
+  {
+    "id": "60db3ea7-872a-4561-b1ee-5201b5dff933",
+    "data": [
+      {
+        "text": "Sei una",
+        "alias": "time",
+        "meta": "@sys.time",
+        "userDefined": false
+      },
+      {
+        "text": " rottura di scatole, signore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588056
+  },
+  {
+    "id": "87fad148-3968-4711-851c-1a19a478e109",
+    "data": [
+      {
+        "text": "Non accetterò la tua impertinenza restando seduto.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588056
+  }
+]

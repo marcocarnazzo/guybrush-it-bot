@@ -1,0 +1,40 @@
+[
+  {
+    "id": "03bfc43b-d839-4fe5-ae2c-2a9cd819825d",
+    "data": [
+      {
+        "text": "Non riuscirai neanche ad avvicinarti a me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540631324
+  },
+  {
+    "id": "c0c05263-0b74-489d-a14b-c1a7843a218c",
+    "data": [
+      {
+        "text": "Un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " motteggio più arguto del ",
+        "userDefined": false
+      },
+      {
+        "text": "mio",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " non c\u0027è",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540589788
+  }
+]

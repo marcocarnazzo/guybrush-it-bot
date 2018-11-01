@@ -1,0 +1,28 @@
+{
+  "id": "19146048-72aa-4f8d-9562-a19e87c2ef06",
+  "name": "intent.misc.scioglilingua",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Ne conoscevo una simile su un roditore..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540655265,
+  "fallbackIntent": false,
+  "events": []
+}

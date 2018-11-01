@@ -1,0 +1,28 @@
+{
+  "id": "7e71d324-2ce2-4e08-802f-9586a463c7f6",
+  "name": "intent.insulti.fungicidio",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Allora uccidere te sarebbe un trascurabile fungicidio."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540631205,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "823f2e8b-4b8f-4102-8b69-8572b074b0f4",
+  "name": "intent.insulti.emorroidi",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b5dc9c55-8498-4d91-88ff-a7e671b513b8",
+          "dataType": "@sys.time",
+          "name": "time",
+          "value": "$time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Le tue emorroidi ti danno ancora fastidio, eh?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540588056,
+  "fallbackIntent": false,
+  "events": []
+}

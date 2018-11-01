@@ -1,0 +1,38 @@
+[
+  {
+    "id": "96b160ca-2127-4356-8c01-2e324e202582",
+    "data": [
+      {
+        "text": "Chi è tuo fratello?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540705578
+  },
+  {
+    "id": "2a3277d1-9aa1-4d83-9010-30c98f7f6a94",
+    "data": [
+      {
+        "text": "Qual è il segreto di Big Whoop?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540705578
+  },
+  {
+    "id": "f8058f66-e334-48e6-991b-d976b68967ec",
+    "data": [
+      {
+        "text": "Qual è il segreto di Monkey Island?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540705578
+  }
+]

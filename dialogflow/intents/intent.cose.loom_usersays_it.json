@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f58cd5b5-5ceb-422e-8ed4-1249b5167467",
+    "data": [
+      {
+        "text": "Dimmi qualcosa di Loom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540797846
+  },
+  {
+    "id": "9ea74c96-e273-4d85-ac28-c4c587f0e676",
+    "data": [
+      {
+        "text": "Loom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540797846
+  },
+  {
+    "id": "6a570e98-28b7-40d2-b907-cd6e2ba8c87e",
+    "data": [
+      {
+        "text": "Allora parlami di Loom",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540631979
+  }
+]

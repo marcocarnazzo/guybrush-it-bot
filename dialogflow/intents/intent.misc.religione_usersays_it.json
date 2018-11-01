@@ -1,0 +1,163 @@
+[
+  {
+    "id": "7dc987e5-0cfb-46bc-a4b6-f4299acec258",
+    "data": [
+      {
+        "text": "bestemmie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655123
+  },
+  {
+    "id": "ba03db3f-7650-4bb3-a670-d6c7e32c1e5e",
+    "data": [
+      {
+        "text": "Mannaggia a tutti i santi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655089
+  },
+  {
+    "id": "601fb442-d973-4bbb-a303-1efd7886f9c0",
+    "data": [
+      {
+        "text": "Credi in Dio?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655089
+  },
+  {
+    "id": "7ff88d5a-3b01-4baf-a41c-149b83fc5e35",
+    "data": [
+      {
+        "text": "Mannaggia alla ",
+        "userDefined": false
+      },
+      {
+        "text": "Madonna",
+        "alias": "music-artist",
+        "meta": "@sys.music-artist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655089
+  },
+  {
+    "id": "1cea074e-82ed-4621-93e2-0635392aa80c",
+    "data": [
+      {
+        "text": "Puttana la ",
+        "userDefined": false
+      },
+      {
+        "text": "Madonna",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655089
+  },
+  {
+    "id": "73798a34-3dfb-45b1-bfa9-240e6c9b58ee",
+    "data": [
+      {
+        "text": "Porca ",
+        "userDefined": false
+      },
+      {
+        "text": "Madonna",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655089
+  },
+  {
+    "id": "4f3608ad-2edb-4b97-bf54-cdee26aa7e7f",
+    "data": [
+      {
+        "text": "Porco Dio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655089
+  },
+  {
+    "id": "e3d13c39-e58b-4f07-a8e6-a03e8aeb1834",
+    "data": [
+      {
+        "text": "Dio cane",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655089
+  },
+  {
+    "id": "1dd62a19-fd0b-4d7b-87b2-f6669b05b808",
+    "data": [
+      {
+        "text": "Gesù",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655032
+  },
+  {
+    "id": "9d725207-7a5f-4a6f-802b-c547922a76e9",
+    "data": [
+      {
+        "text": "Santi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655032
+  },
+  {
+    "id": "1ef87cc3-258f-46a9-b52a-2d20a9f479bc",
+    "data": [
+      {
+        "text": "Dio",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655032
+  },
+  {
+    "id": "704b5ea7-b710-4676-8f73-a01ac1b91bf4",
+    "data": [
+      {
+        "text": "Madonna",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655032
+  }
+]

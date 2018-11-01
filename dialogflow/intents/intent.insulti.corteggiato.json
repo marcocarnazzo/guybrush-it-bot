@@ -1,0 +1,28 @@
+{
+  "id": "a5448b89-ea89-455b-9bd6-6eae9a9bd818",
+  "name": "intent.insulti.corteggiato",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Un po\u0027 come le ragazze che hai corteggiato."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540589496,
+  "fallbackIntent": false,
+  "events": []
+}

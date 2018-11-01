@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e6426477-0df8-4679-b13b-51ff040fd5a4",
+    "data": [
+      {
+        "text": "Combattiamo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655324
+  },
+  {
+    "id": "a63c8e62-4952-4dd6-9472-217ac4e089be",
+    "data": [
+      {
+        "text": "In guardia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655324
+  }
+]

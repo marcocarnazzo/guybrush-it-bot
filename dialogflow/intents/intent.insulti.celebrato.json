@@ -1,0 +1,28 @@
+{
+  "id": "ff36749e-30d8-4090-acc0-ba54d8ea8e13",
+  "name": "intent.insulti.celebrato",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Peccato che sia tutto inventato!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540631016,
+  "fallbackIntent": false,
+  "events": []
+}

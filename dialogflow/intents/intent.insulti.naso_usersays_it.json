@@ -1,0 +1,44 @@
+[
+  {
+    "id": "f636e973-040c-4d92-80a0-fe4fd83e06c8",
+    "data": [
+      {
+        "text": "Nel ",
+        "userDefined": false
+      },
+      {
+        "text": "mio",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ultimo combattimento avevo le mani insanguinate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588316
+  },
+  {
+    "id": "3cdb69c7-3f24-4a89-9f75-d7209d69e86e",
+    "data": [
+      {
+        "text": "Ho avuto questo sfregio in faccia in ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " dura battaglia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588316
+  }
+]

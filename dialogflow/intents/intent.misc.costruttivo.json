@@ -1,0 +1,102 @@
+{
+  "id": "ee4782ac-2dc3-4b14-9f34-873833cfeb48",
+  "name": "intent.misc.costruttivo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Già, meglio qualcosa di costruttivo, tipo...",
+            "Già, è meglio se chiudi la chat e fai qualcosa di costruttivo, tipo..."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Come giocare a squash.",
+            "Lava la tua macchina.",
+            "Prepara la cena.",
+            "Prendi parte a una banda funky.",
+            "Viaggia in un paese straniero.",
+            "Diventa Presidente Della Repubblica.",
+            "Parla ad un membro del sesso opposto.",
+            "Lubrifica la tua macchina.",
+            "Prepara un wurstel fritto.",
+            "Cerca un tesoro sepolto.",
+            "Mungi una mucca.",
+            "Fai una gara di abbaiate con il cane del tuo vicino.",
+            "Effettua un’operazione al cervello.",
+            "Dipingi una linea gialla in mezzo alla tua strada d’accesso privata.",
+            "Scrivi il tuo nome nella neve.",
+            "Insegna pallacanestro acquatico alle vongole.",
+            "Canta le canzoni di Lucio Dalla in banca.",
+            "Pianta alberi sul suolo pubblico.",
+            "Confondi la persona accanto a te.",
+            "Costruisci un tavolo triangolare.",
+            "Trotta, balzella e salta.",
+            "Cavalca un treno.",
+            "Organizza il tuo cassetto delle calze in ordine alfabetico.",
+            "Vai a giocare a Bowling con tua mamma.",
+            "Addestra gli insetti a fare scherzi.",
+            "Fai una trapunta.",
+            "Pubblica una rivista sui trucioli delle matite.",
+            "Mangia gelatina al limone con ananas.",
+            "Asfalta un’autostrada.",
+            "Impara a disegnare."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Oppure...",
+            "O anche....",
+            "O..."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Iscriviti a fotografia.",
+            "Impara a parlare greco antico.",
+            "Fotocopia denaro.",
+            "Esci a mangiare la pasta.",
+            "Cuci un vestito.",
+            "Lava il tuo iguana.",
+            "Vai a pesca.",
+            "Dipingi la casa di uno sconosciuto di notte.",
+            "Iscriviti a windsurf.",
+            "Cambia lo stile dei tuoi capelli.",
+            "Affila i tuoi gessetti.",
+            "Dai da mangiare ad un tucano.",
+            "Goditi il sole.",
+            "Fai delle parole incrociate.",
+            "Compra dei bei vestiti.",
+            "Vai alla spiaggia.",
+            "Gioca a cricket con tuo padre.",
+            "Innaffia le tue piante.",
+            "Costruisci una casa per le bambole.",
+            "Organizza una cena con salmone e vino bianco."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540705055,
+  "fallbackIntent": false,
+  "events": []
+}

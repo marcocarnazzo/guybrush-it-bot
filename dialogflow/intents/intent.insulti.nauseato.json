@@ -1,0 +1,28 @@
+{
+  "id": "7e7945d0-f85a-430b-a80b-f5067bd06414",
+  "name": "intent.insulti.nauseato",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Solo il tuo odore mi rende nauseato, agitato e infuriato!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540631165,
+  "fallbackIntent": false,
+  "events": []
+}

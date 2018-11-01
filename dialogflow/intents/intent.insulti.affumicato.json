@@ -1,0 +1,28 @@
+{
+  "id": "39f4262a-80b2-40d5-80a3-0dd53526ac48",
+  "name": "intent.insulti.affumicato",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Con te in giro preferirei essere affumicato!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540631244,
+  "fallbackIntent": false,
+  "events": []
+}

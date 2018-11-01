@@ -1,0 +1,50 @@
+[
+  {
+    "id": "c16b03d5-0e86-43e8-a0d2-21f4a2bb4272",
+    "data": [
+      {
+        "text": "/send grog",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540704295
+  },
+  {
+    "id": "276fb700-d41e-40c0-8789-f98062226260",
+    "data": [
+      {
+        "text": "Che ingredienti ci sono nel grog?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540632305
+  },
+  {
+    "id": "711f6737-30a4-4381-bd4d-f68823952434",
+    "data": [
+      {
+        "text": "Cos\u0027è il grog?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540632305
+  },
+  {
+    "id": "79c609c6-f669-4f0c-acf9-e67be108085f",
+    "data": [
+      {
+        "text": "Com\u0027\u0027è fatto il grog?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540632305
+  }
+]

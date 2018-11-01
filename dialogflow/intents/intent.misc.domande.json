@@ -1,0 +1,28 @@
+{
+  "id": "65b71029-ff73-4b6a-92e3-a5255a19f064",
+  "name": "intent.misc.domande",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Conosci le gare di insulti dei pirati?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540655432,
+  "fallbackIntent": false,
+  "events": []
+}

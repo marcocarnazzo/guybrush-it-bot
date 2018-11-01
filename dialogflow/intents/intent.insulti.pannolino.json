@@ -1,0 +1,28 @@
+{
+  "id": "2fbaeaf6-9afe-47fe-a4c0-49f6878c60f2",
+  "name": "intent.insulti.pannolino",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Perché, ne volevi uno?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540587974,
+  "fallbackIntent": false,
+  "events": []
+}

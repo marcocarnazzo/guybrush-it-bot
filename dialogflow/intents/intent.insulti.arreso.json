@@ -1,0 +1,28 @@
+{
+  "id": "862b90ad-084f-4029-954b-edb85c62e1f4",
+  "name": "intent.insulti.arreso",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Hai vinto hai vinto, mi son già arreso!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540630809,
+  "fallbackIntent": false,
+  "events": []
+}

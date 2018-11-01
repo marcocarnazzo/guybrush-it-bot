@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1819f3a0-bdbc-4bc2-85b2-24d3b7f9fd74",
+    "data": [
+      {
+        "text": "La mia lingua è più tagliente di qualsiasi spada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540587162
+  },
+  {
+    "id": "5755050b-004d-4bc6-99eb-4f17b6bea12c",
+    "data": [
+      {
+        "text": "Presto sentirai la mia spada come ",
+        "userDefined": false
+      },
+      {
+        "text": "uno",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " spiedino",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540587162
+  }
+]

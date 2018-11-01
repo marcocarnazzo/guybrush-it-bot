@@ -1,0 +1,32 @@
+{
+  "id": "e0e41a64-3e51-4c32-944d-70d19c4f54d9",
+  "name": "intent.insulti.inizio",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "In guardia!",
+            "Ricordati che la lingua è più tagliente della spada!",
+            "Non ti conviene: una volta ho battuto il Maestro della Spada!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540655324,
+  "fallbackIntent": false,
+  "events": []
+}

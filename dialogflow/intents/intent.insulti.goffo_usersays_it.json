@@ -1,0 +1,35 @@
+[
+  {
+    "id": "8560d8c8-7d45-41ac-be4d-f826f8836607",
+    "data": [
+      {
+        "text": "Mai visto un mentecatto come te",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540631223
+  },
+  {
+    "id": "55399cc5-77c8-4318-bb25-9c1646ead13d",
+    "data": [
+      {
+        "text": "Mai visto ",
+        "userDefined": false
+      },
+      {
+        "text": "uno",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " spadaccino più goffo di te",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540589642
+  }
+]

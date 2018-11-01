@@ -1,0 +1,31 @@
+{
+  "id": "fc51e6fe-6c64-46ee-bbbe-1080132b682a",
+  "name": "intent.misc.help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Sono solo un apprendista bot: so solo RISPONDERE agli insulti pirateschi. Una volta però ho battuto il Maestro della Spada",
+            "Rispondo solo agli insulti dei pirati. Se non sai quali sono forse è meglio se prima fai un giro a Melée Island"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540705958,
+  "fallbackIntent": false,
+  "events": []
+}

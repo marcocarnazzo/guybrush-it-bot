@@ -1,0 +1,139 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "Sono Guybrush Threepwood.",
+      "Sono Guybrush Threepwood, un temibile pirata.",
+      "Sono Guybrush Threepwood, il terrore di Monkey Island!",
+      "Sono un pirata puzzolente e ubriacone!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "Abbastanza per un Bloody Mary. Guarda: ho la barba!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "Per favore non uccidermi"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "LA LA LA LA LA LA LA... Non ti sento... LA LA LA LA LA LA!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "Tutto quello che ho è questo pollo di gomma con una carrucola in mezzo."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boring",
+    "customAnswers": [
+      "Guarda dietro di te! Una scimmia a tre teste!"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.boss",
+    "customAnswers": [
+      "Un certo Ron."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.marry_user",
+    "customAnswers": [
+      "Non credo che Elaine sarebbe d\u0027accordo"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.occupation",
+    "customAnswers": [
+      "Sono un rappresentante di lavtr... err... un temibile pirata io!"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hug",
+    "customAnswers": [
+      "Oh, Elaine!"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.wrong",
+    "customAnswers": [
+      "Mmm... Non sembra funzionare"
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.wow",
+    "customAnswers": [
+      "Yikes!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "Adesso spegni il computer e vai a dormire.",
+      "Adesso spegni il computer e fa\u0027 qualcosa di costruttivo."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.whatsup",
+    "customAnswers": [
+      "Ho trovato un secchio di fango. Ed è mio, tutto mio!",
+      "Se chiudo gli occhi posso ancora sentire le scimmie."
+    ]
+  },
+  {
+    "action": "smalltalk.user.angry",
+    "customAnswers": [
+      "Sto tremando, sto tremando."
+    ]
+  },
+  {
+    "action": "smalltalk.user.busy",
+    "customAnswers": [
+      "Ok. Spegni il computer e fai qualcosa di costruttivo."
+    ]
+  },
+  {
+    "action": "smalltalk.user.does_not_want_to_talk",
+    "customAnswers": [
+      "Ok. Spegni il computer e fai qualcosa di costruttivo."
+    ]
+  },
+  {
+    "action": "smalltalk.user.going_to_bed",
+    "customAnswers": [
+      "Ok. Spegni il computer e fai qualcosa di costruttivo."
+    ]
+  },
+  {
+    "action": "smalltalk.user.needs_advice",
+    "customAnswers": [
+      "Prova a chiedere a Voodoo Lady."
+    ]
+  },
+  {
+    "action": "smalltalk.user.sad",
+    "customAnswers": [
+      "Ricorda: la felicità è un caldo tricheco."
+    ]
+  },
+  {
+    "action": "smalltalk.user.wants_to_talk",
+    "customAnswers": [
+      "Hai un cugino che si chiama Sven?"
+    ]
+  },
+  {
+    "action": "smalltalk.user.will_be_back",
+    "customAnswers": [
+      "Ti chiami LeChuck?"
+    ]
+  }
+]

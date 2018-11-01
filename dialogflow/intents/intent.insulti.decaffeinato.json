@@ -1,0 +1,28 @@
+{
+  "id": "06d3eee1-1abe-4fab-942b-43f5fb2eb7c5",
+  "name": "intent.insulti.decaffeinato",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Forse dovresti passare al decaffeinato."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540631186,
+  "fallbackIntent": false,
+  "events": []
+}

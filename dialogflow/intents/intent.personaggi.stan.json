@@ -1,0 +1,28 @@
+{
+  "id": "67982d71-58d9-476b-bf5e-dbc44947a95b",
+  "name": "intent.personaggi.stan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Stan vendeva navi. Poi ha preferito passare ad un business dove i clienti insoddisfatti non tornano a lamentarsi."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540816030,
+  "fallbackIntent": false,
+  "events": []
+}

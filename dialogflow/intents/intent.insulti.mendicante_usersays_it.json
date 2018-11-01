@@ -1,0 +1,44 @@
+[
+  {
+    "id": "68e10e21-264a-4239-8e80-6b9018fe9394",
+    "data": [
+      {
+        "text": "Ogni parola che mi ",
+        "userDefined": false
+      },
+      {
+        "text": "dici",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " è stupida",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588255
+  },
+  {
+    "id": "7d6dc635-4a2b-4c05-92d4-6502116a39ad",
+    "data": [
+      {
+        "text": "Hai le maniere d\u0027",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " mendicante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588255
+  }
+]

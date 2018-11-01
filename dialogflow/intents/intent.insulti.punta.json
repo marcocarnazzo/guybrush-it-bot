@@ -1,0 +1,28 @@
+{
+  "id": "a20510e3-e540-4148-81a4-07b6808f4594",
+  "name": "intent.insulti.punta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Ed anch\u0027io ho una piccola PUNTA per te. Capito?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540588192,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "df70bcbd-a1e4-4c99-9498-359976cdd9cb",
+    "data": [
+      {
+        "text": "Chiudi questa chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540704434
+  },
+  {
+    "id": "728041ad-053a-4ec7-9d48-600cb3288679",
+    "data": [
+      {
+        "text": "/end",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540654962
+  },
+  {
+    "id": "c537e45f-b1f5-4410-b690-1d3991fb8b83",
+    "data": [
+      {
+        "text": "Fai qualcosa di costruttivo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540590108
+  },
+  {
+    "id": "8b03164b-e1a6-454f-a521-b3311f780b78",
+    "data": [
+      {
+        "text": "Ok, basta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540590108
+  },
+  {
+    "id": "245bd65a-1583-4649-9c70-d044287e96a6",
+    "data": [
+      {
+        "text": "Basta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540590108
+  },
+  {
+    "id": "bb00cdf8-bbde-4f9e-9334-87c11949b5d7",
+    "data": [
+      {
+        "text": "Spegni il computer e fa\u0027 qualcosa di costruttivo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540590108
+  }
+]

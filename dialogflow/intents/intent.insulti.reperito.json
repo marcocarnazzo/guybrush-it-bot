@@ -1,0 +1,28 @@
+{
+  "id": "d3f58850-6f68-4937-9ffa-d0a0cd35f391",
+  "name": "intent.insulti.reperito",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Almeno il mio può essere reperito!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540631372,
+  "fallbackIntent": false,
+  "events": []
+}

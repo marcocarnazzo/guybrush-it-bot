@@ -1,0 +1,58 @@
+[
+  {
+    "id": "e403a9c3-19fa-4204-82b7-71a89788d72c",
+    "data": [
+      {
+        "text": "Oggi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "devo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " darti ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " lunga lezione tagliente",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588192
+  },
+  {
+    "id": "028fb9b0-764e-40f4-aa61-62410fc2ca88",
+    "data": [
+      {
+        "text": "Questa è la ",
+        "userDefined": false
+      },
+      {
+        "text": "FINE",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " per te, topo di fogna",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588192
+  }
+]

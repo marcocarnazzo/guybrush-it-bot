@@ -1,0 +1,33 @@
+{
+  "id": "c3cecfca-3045-4ee0-872a-3b860a51ebf8",
+  "name": "intent.misc.paura",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Yikes!",
+            "Sto tremando! Sto tremando!",
+            "Io sono la gomma tu la colla",
+            "NOOOOOO!!!!!!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540654986,
+  "fallbackIntent": false,
+  "events": []
+}

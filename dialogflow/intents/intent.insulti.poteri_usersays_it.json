@@ -1,0 +1,35 @@
+[
+  {
+    "id": "5e6bf2df-d419-4260-ad05-93ce57723f3a",
+    "data": [
+      {
+        "text": "Ho il coraggio e l\u0027abilità di ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " grande spadaccino",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540587355
+  },
+  {
+    "id": "e0ae9936-bfc7-489a-8107-77132dcf879a",
+    "data": [
+      {
+        "text": "Non puoi competere con i miei poteri, povero cretino",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540587355
+  }
+]

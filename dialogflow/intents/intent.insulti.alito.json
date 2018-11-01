@@ -1,0 +1,28 @@
+{
+  "id": "08d8b1e9-748b-47eb-9e98-f8d7453e4dca",
+  "name": "intent.insulti.alito",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Ancor prima che ti sentano l\u0027alito?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540588146,
+  "fallbackIntent": false,
+  "events": []
+}

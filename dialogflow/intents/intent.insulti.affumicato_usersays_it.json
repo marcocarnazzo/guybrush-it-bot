@@ -1,0 +1,26 @@
+[
+  {
+    "id": "9ffd0358-867c-4ede-94c8-6f877cecf9ad",
+    "data": [
+      {
+        "text": "Ti lascio scegliere se essere sbudellato o decapitato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540631244
+  },
+  {
+    "id": "1b692aff-c7f3-4488-97e5-041f399300e3",
+    "data": [
+      {
+        "text": "Preferisci essere sepolto o cremato?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540589580
+  }
+]

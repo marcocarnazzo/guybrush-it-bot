@@ -1,0 +1,28 @@
+{
+  "id": "1f3ea1d7-2eb7-4e9a-84ef-e5e645aaea71",
+  "name": "intent.insulti.mendicante",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Volevo essere sicuro che tu fossi a tuo agio con me"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540588255,
+  "fallbackIntent": false,
+  "events": []
+}

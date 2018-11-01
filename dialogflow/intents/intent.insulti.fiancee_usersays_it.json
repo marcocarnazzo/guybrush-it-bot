@@ -1,0 +1,40 @@
+[
+  {
+    "id": "6b0dc0e4-6b17-4ed1-b012-528cf8f14c41",
+    "data": [
+      {
+        "text": " Hai il sex appeal di uno shar-per",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540630957
+  },
+  {
+    "id": "a0f360aa-4f56-49fb-95e0-0593b6a066cb",
+    "data": [
+      {
+        "text": "Sei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " più repellente di ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " scimmia in négligé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540630957
+  }
+]

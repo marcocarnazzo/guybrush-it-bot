@@ -1,0 +1,31 @@
+{
+  "id": "f6dd4bd4-fc01-4582-8149-31adbb9d8e7f",
+  "name": "intent.dialoghi.roditore",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Un roditore non potrebbe rodere nessun legno, visto che un roditore non può rodere il legno.",
+            "Anche se un roditore potesse rodere il legno, e anche se un roditore rodesse il legno, dovrebbe un roditore rodere il legno?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540589096,
+  "fallbackIntent": false,
+  "events": []
+}

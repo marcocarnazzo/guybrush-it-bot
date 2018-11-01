@@ -1,0 +1,28 @@
+{
+  "id": "ff8882d8-6305-44c7-9c2a-4260bf515d62",
+  "name": "intent.insulti.custode",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Dunque hai avuto quel lavoro di custode, eh?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540588499,
+  "fallbackIntent": false,
+  "events": []
+}

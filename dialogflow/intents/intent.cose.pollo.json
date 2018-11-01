@@ -1,0 +1,28 @@
+{
+  "id": "4b0aed62-242b-44e1-9e23-9a0fe7974e68",
+  "name": "intent.cose.pollo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Che pollo!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540815885,
+  "fallbackIntent": false,
+  "events": []
+}

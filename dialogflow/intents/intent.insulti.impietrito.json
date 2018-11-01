@@ -1,0 +1,28 @@
+{
+  "id": "d8a71d82-c9be-48c9-96d7-eea0b880167f",
+  "name": "intent.insulti.impietrito",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Oh, dovrei fare un paragone ardito!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540631065,
+  "fallbackIntent": false,
+  "events": []
+}

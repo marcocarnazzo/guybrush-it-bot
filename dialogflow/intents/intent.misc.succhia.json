@@ -1,0 +1,31 @@
+{
+  "id": "438ccdeb-9362-4112-bee0-e4197929a665",
+  "name": "intent.misc.succhia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Non ssembra funzionare",
+            "Mi dispiace: non ho più la mia cannuccia sbirula"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540704617,
+  "fallbackIntent": false,
+  "events": []
+}

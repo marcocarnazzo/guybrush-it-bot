@@ -1,0 +1,37 @@
+{
+  "id": "4b96620d-db88-4f58-b7ec-055456848764",
+  "name": "intent.misc.religione",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ca273ec9-7733-4943-ba37-085d7d4545e9",
+          "required": false,
+          "dataType": "@sys.music-artist",
+          "name": "music-artist",
+          "value": "$music-artist",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Non mi occupo di religione. Dovresti parlarne con Voodoo Lady"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540655123,
+  "fallbackIntent": false,
+  "events": []
+}

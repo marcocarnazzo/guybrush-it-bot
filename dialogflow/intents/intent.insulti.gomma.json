@@ -1,0 +1,28 @@
+{
+  "id": "5079df8a-8f79-4ebf-af84-fefbd7df0c0f",
+  "name": "intent.insulti.gomma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "E questo sarebbe un insulto?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540630987,
+  "fallbackIntent": false,
+  "events": []
+}

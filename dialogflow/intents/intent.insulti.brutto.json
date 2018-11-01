@@ -1,0 +1,28 @@
+{
+  "id": "060df105-b172-4d6a-bc89-5233d08941f9",
+  "name": "intent.insulti.brutto",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Ah, questo è il meglio che riesci a fare?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540589870,
+  "fallbackIntent": false,
+  "events": []
+}

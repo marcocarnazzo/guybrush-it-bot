@@ -1,0 +1,26 @@
+[
+  {
+    "id": "8636f434-d32c-4db6-8308-286e05bc782f",
+    "data": [
+      {
+        "text": "Cosa sai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655423
+  },
+  {
+    "id": "af447b48-84ed-4944-ab38-410a598e5d58",
+    "data": [
+      {
+        "text": "Cosa posso chiederti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655423
+  }
+]

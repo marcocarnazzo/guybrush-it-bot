@@ -1,0 +1,28 @@
+{
+  "id": "6b8e1aa8-5871-4598-acb2-736bbda87470",
+  "name": "intent.insulti.ardito",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Tua zia troverebbe il paragone alquanto ardito."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540631143,
+  "fallbackIntent": false,
+  "events": []
+}

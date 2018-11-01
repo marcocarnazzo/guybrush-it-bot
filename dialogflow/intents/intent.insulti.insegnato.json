@@ -1,0 +1,28 @@
+{
+  "id": "a737c920-fadd-4ecf-8d55-d918539a729b",
+  "name": "intent.insulti.insegnato",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Ti avrà insegnato tutto quello che sai."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540587478,
+  "fallbackIntent": false,
+  "events": []
+}

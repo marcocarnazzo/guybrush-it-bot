@@ -1,0 +1,44 @@
+[
+  {
+    "id": "48d54843-00a9-479a-aeb1-870bf958a812",
+    "data": [
+      {
+        "text": "Spero tu abbia ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " battello pronto ",
+        "userDefined": false
+      },
+      {
+        "text": "per una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " fuga veloce",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540587974
+  },
+  {
+    "id": "f862b9e4-5f2c-4134-84f9-b0f651adc18c",
+    "data": [
+      {
+        "text": "Non hai ancora smesso di portare i pannolini?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540587954
+  }
+]

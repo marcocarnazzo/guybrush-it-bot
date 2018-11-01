@@ -1,0 +1,60 @@
+{
+  "id": "2c6ece00-06b2-4c78-ad47-5fd63e5523a1",
+  "name": "intent.cose.grog",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Il grog è un miscuglio segreto composto da uno o più dei seguenti ingredienti:",
+            "Vuoi del grog? Servono uno o più dei seguenti ingredienti:"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "cherosene",
+            "glicol propilene",
+            "dolcificanti artificiali"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "acido solforico",
+            "rum",
+            "acetone",
+            "colorante rosso n. 2"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "detriti",
+            "grasso per motore",
+            "acido per la batteria",
+            "e/o peperone"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540704295,
+  "fallbackIntent": false,
+  "events": []
+}

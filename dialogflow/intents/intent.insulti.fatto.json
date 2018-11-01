@@ -1,0 +1,28 @@
+{
+  "id": "6fd9c266-c990-4327-a19a-3e2496799f9c",
+  "name": "intent.insulti.fatto",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Mi fai pensare che qualcuno l\u0027abbia già fatto."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540587539,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "3f78d183-48a4-4dc9-ba93-7267a9100684",
+    "data": [
+      {
+        "text": "Nessuno potrà salvarti quella pelle da pollo denutrito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540631143
+  },
+  {
+    "id": "9791283e-42f2-4096-ae09-b11b284ddfc7",
+    "data": [
+      {
+        "text": "Somigli a quel fesso di ",
+        "userDefined": false
+      },
+      {
+        "text": "mio",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " zio Vito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540589407
+  }
+]

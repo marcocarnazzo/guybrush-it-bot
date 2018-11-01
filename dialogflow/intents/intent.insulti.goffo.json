@@ -1,0 +1,28 @@
+{
+  "id": "5b6f8431-d729-459a-a88c-7bd3a4ad15e2",
+  "name": "intent.insulti.goffo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Avresti potuto, ma eri troppo impegnato nel macramè."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540631223,
+  "fallbackIntent": false,
+  "events": []
+}

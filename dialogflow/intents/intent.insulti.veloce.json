@@ -1,0 +1,28 @@
+{
+  "id": "cc4e8b31-5c54-4ad3-805c-34deb225ca3e",
+  "name": "intent.insulti.veloce",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Riesci a correre COSÌ veloce?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540587415,
+  "fallbackIntent": false,
+  "events": []
+}

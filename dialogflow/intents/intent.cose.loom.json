@@ -1,0 +1,68 @@
+{
+  "id": "6ce84902-b3d5-40f1-aadd-611d5385e376",
+  "name": "intent.cose.loom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Vuoi dire l\u0027ultima opera d\u0027arte nei racconti di fantasia di Brian Moriarty™ della Lucasfilm™?"
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "\u003cPUBBLICITA\u0027\u003e"
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Ma è un\u0027avventura straordinaria con interfacce di magia..."
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "...stupendo, alta risoluzione, paesaggi 3D..."
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "...musica sofisticata con stupendi effetti."
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Per non parlare di animazioni dettagliate ed effetti speciali,"
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "elegante controllo punta e click dei personaggi, oggetti, ed incantesimi magici."
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Arriva per primo!"
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Vai a comprarti Loom™ oggi!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540797846,
+  "fallbackIntent": false,
+  "events": []
+}

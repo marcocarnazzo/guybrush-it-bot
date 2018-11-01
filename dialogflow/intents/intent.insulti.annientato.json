@@ -1,0 +1,28 @@
+{
+  "id": "5fad4281-f59e-4c7e-bc60-18472425ebb0",
+  "name": "intent.insulti.annientato",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Col tuo fiato sicuramente l\u0027avrai soffocato"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540630900,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ac665652-c521-4be9-97da-a6e84ced9893",
+    "data": [
+      {
+        "text": "La mia spada è famosa ovunque nei Caraibi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588363
+  },
+  {
+    "id": "60a59c2a-9e57-46dc-b0f6-88d4637ef4f2",
+    "data": [
+      {
+        "text": " Ho sentito dire che ",
+        "userDefined": false
+      },
+      {
+        "text": "sei uno",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " spregevole codardo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588363
+  }
+]

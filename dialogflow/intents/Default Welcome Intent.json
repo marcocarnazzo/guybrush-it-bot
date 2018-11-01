@@ -1,0 +1,37 @@
+{
+  "id": "0a5e955b-3eef-44fb-94c0-1f139c3a0b18",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Ciao! Prova qualche insulto piratesco: conosco tutte le risposte!",
+            "In guardia! Prova qualche insulto piratesco: la lingua è più tagliente della spada",
+            "Ciao. Se vuoi diventare un temibile pirata devi conoscere gli insulti pirateschi. Prova a dirmene qualcuno..."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540800341,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

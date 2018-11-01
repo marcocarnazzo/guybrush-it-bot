@@ -1,0 +1,28 @@
+{
+  "id": "e26f7274-138d-4ed3-bba3-bf2be8d2515e",
+  "name": "intent.insulti.naso",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Spero tu abbia imparato a non mettere le dita nel naso"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540588316,
+  "fallbackIntent": false,
+  "events": []
+}

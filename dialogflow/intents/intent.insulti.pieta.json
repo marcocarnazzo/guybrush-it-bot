@@ -1,0 +1,28 @@
+{
+  "id": "9b3f7989-1f6f-4650-b775-9835ff1cbf92",
+  "name": "intent.insulti.pieta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "A quanto pare non ne hai neanche per te."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540589699,
+  "fallbackIntent": false,
+  "events": []
+}

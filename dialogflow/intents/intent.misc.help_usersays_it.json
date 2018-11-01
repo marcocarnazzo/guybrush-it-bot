@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ce3f0aa4-f5e1-4dc6-ba8e-dc93baf4f9ff",
+    "data": [
+      {
+        "text": "Insultami",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540704898
+  },
+  {
+    "id": "e3f9c6f4-0701-4690-9066-b7f9ec959c79",
+    "data": [
+      {
+        "text": "/help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540704898
+  },
+  {
+    "id": "22da5e84-bc36-48e1-a885-5491d034fe96",
+    "data": [
+      {
+        "text": "Lista dei comandi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540704898
+  },
+  {
+    "id": "83dc36d7-9ae1-4a57-ac60-066f2158f470",
+    "data": [
+      {
+        "text": "Cosa posso chiederti?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540704898
+  }
+]

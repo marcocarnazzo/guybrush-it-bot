@@ -1,0 +1,28 @@
+{
+  "id": "40528e45-9b80-479e-b0f4-2fd3b59ab4d0",
+  "name": "intent.insulti.famiglia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Sono contento che tu sia andato alla riunione di famiglia"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540588549,
+  "fallbackIntent": false,
+  "events": []
+}

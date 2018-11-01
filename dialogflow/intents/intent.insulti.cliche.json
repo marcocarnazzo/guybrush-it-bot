@@ -1,0 +1,28 @@
+{
+  "id": "4a0b49ae-6a7d-4fdd-aa4e-1343d2489876",
+  "name": "intent.insulti.cliche",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Oh, basta coi cliché."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540631036,
+  "fallbackIntent": false,
+  "events": []
+}

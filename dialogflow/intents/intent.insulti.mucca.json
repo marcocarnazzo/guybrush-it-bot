@@ -1,0 +1,28 @@
+{
+  "id": "89dfce0a-4b3c-42e8-af00-07f824da43da",
+  "name": "intent.insulti.mucca",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Molto appropriato, combatti come una mucca"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540587174,
+  "fallbackIntent": false,
+  "events": []
+}

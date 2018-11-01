@@ -1,0 +1,28 @@
+{
+  "id": "dd0519ba-fb0f-4725-9dea-05d4dc5a5cff",
+  "name": "intent.insulti.codardo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Che peccato che nessuno abbia MAI sentito parlare di te"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540588363,
+  "fallbackIntent": false,
+  "events": []
+}

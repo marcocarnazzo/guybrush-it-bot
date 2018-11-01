@@ -1,0 +1,47 @@
+[
+  {
+    "id": "4e4e3fe2-b2e1-4974-a9a2-3138dc7ef3bb",
+    "data": [
+      {
+        "text": "Di solito vedo le persone come te svenute nelle taverne",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588146
+  },
+  {
+    "id": "ee627fb0-0d45-4df5-be90-f97e292f8765",
+    "data": [
+      {
+        "text": "I miei nemici più saggi scappano via appena mi vedono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588146
+  },
+  {
+    "id": "08f0d763-6744-4330-a6e5-c7b6a57bbb57",
+    "data": [
+      {
+        "text": "La gente ",
+        "userDefined": false
+      },
+      {
+        "text": "cade",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ai miei piedi quando mi vede arrivare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588146
+  }
+]

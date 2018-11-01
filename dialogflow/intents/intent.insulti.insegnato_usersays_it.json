@@ -1,0 +1,58 @@
+[
+  {
+    "id": "5fd57b66-3a1f-481e-9eb2-86d49cddd098",
+    "data": [
+      {
+        "text": "Solo ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " volta incontrai ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tale codardo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540587478
+  },
+  {
+    "id": "8baa55ca-c7c0-4729-a8fe-3989c418b061",
+    "data": [
+      {
+        "text": "Una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " volta avevo ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " cane più intelligente di te",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540587478
+  }
+]

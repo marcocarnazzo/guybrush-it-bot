@@ -1,0 +1,28 @@
+{
+  "id": "2f8254a8-bc82-49f6-ab5a-1acda605e9e5",
+  "name": "intent.insulti.piumino",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Prima dovresti smettere di agitarla come un piumino"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540587162,
+  "fallbackIntent": false,
+  "events": []
+}

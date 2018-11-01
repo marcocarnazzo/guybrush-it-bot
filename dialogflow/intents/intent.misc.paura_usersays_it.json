@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cbc769b0-f7c1-40a6-944a-15976df239ac",
+    "data": [
+      {
+        "text": "LeChuck è tornato",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540589240
+  },
+  {
+    "id": "f4fd7572-1aac-437e-9db7-dfecc0baa9cd",
+    "data": [
+      {
+        "text": "Una scimmia con tre teste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540589240
+  },
+  {
+    "id": "bea29138-d562-47c3-82dc-b00604293b77",
+    "data": [
+      {
+        "text": "Guarda dietro di te: ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " scimmia con ",
+        "userDefined": false
+      },
+      {
+        "text": "tre",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " teste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540589240
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "7e37b9fe-159f-4401-954d-bfbd6514bcba",
+  "name": "intent.misc.segreto",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Non hai ancora capito?",
+            "È semplice!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Il segreto di Monkey Island, di Big Whoop e anche di mio fratello sono connessi tra di loro."
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Infatti il segreto di Monkey Island è..."
+        },
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "\u003cERROR: Inserisci il disco 22 per continuare\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540705809,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "30aa99ad-318c-4b61-9703-ba525eee46d1",
+    "data": [
+      {
+        "text": "Se tuo fratello ti assomiglia, meglio sposare ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " maiale",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540587539
+  },
+  {
+    "id": "5d9e0289-6f66-4aa7-9f8d-6e0a7dc6451e",
+    "data": [
+      {
+        "text": "Mi fai vomitare",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540587539
+  }
+]

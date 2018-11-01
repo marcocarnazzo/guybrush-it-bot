@@ -1,0 +1,35 @@
+[
+  {
+    "id": "5ebd946e-cc3f-4a25-9076-45bf7e969c13",
+    "data": [
+      {
+        "text": "Nessuno mi vedrà combattere così ",
+        "userDefined": false
+      },
+      {
+        "text": "male",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " come te",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540587415
+  },
+  {
+    "id": "8dea896a-9d0d-4118-af0f-3497b7e5ee39",
+    "data": [
+      {
+        "text": "Nessuno mi ha mai colpito a sangue e non succederà mai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540587415
+  }
+]

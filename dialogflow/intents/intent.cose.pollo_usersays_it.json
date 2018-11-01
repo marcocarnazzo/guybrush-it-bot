@@ -1,0 +1,32 @@
+[
+  {
+    "id": "eb6479cc-b2b8-4d09-9e1d-a7eb7742ebd9",
+    "data": [
+      {
+        "text": "Ho ",
+        "userDefined": false
+      },
+      {
+        "text": "un",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " pollo con ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " carrucola in mezzo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540815885
+  }
+]

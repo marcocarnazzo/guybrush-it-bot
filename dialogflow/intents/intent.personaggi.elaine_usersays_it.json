@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b6f0418d-a998-472f-9d9c-983ef12f11ca",
+    "data": [
+      {
+        "text": "Parlami del governatore Elaine Marley",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655199
+  },
+  {
+    "id": "a2f90c48-b2b7-47d7-8c48-d20cb055f86a",
+    "data": [
+      {
+        "text": "Governatore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655199
+  },
+  {
+    "id": "aa604968-cdda-4ccd-bbdb-9bef98a569c0",
+    "data": [
+      {
+        "text": "Marley",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655199
+  },
+  {
+    "id": "9633bb53-cf62-4631-8750-e4adab7eb1e1",
+    "data": [
+      {
+        "text": "Elaine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540655199
+  }
+]

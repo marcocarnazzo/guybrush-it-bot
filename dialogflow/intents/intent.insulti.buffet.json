@@ -1,0 +1,28 @@
+{
+  "id": "7999dcae-b2a0-4dc6-b86f-f1f3a1b561ca",
+  "name": "intent.insulti.buffet",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Quando avrò finito con te sarai un filetto grillè!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540631343,
+  "fallbackIntent": false,
+  "events": []
+}

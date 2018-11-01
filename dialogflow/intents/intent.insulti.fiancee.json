@@ -1,0 +1,28 @@
+{
+  "id": "3bc16040-9198-4bfe-acfb-fc7a20a77c72",
+  "name": "intent.insulti.fiancee",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Somiglio TANTO alla tua fiancée?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540630957,
+  "fallbackIntent": false,
+  "events": []
+}

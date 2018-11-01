@@ -1,0 +1,44 @@
+[
+  {
+    "id": "a7b39958-7460-4cf5-9648-e2e8c75ea5a7",
+    "data": [
+      {
+        "text": " Il ",
+        "userDefined": false
+      },
+      {
+        "text": "mio",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nome",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " fa paura in ogni sporco angolo di quest\u0027isola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588499
+  },
+  {
+    "id": "98c75942-834b-458d-84f0-471bef9de7a5",
+    "data": [
+      {
+        "text": "Pulirò il tuo sangue col mio fazzoletto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588499
+  }
+]

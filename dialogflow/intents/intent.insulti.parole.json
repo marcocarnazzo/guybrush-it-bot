@@ -1,0 +1,28 @@
+{
+  "id": "785db372-28e1-4193-bc4c-ea4c19d9320e",
+  "name": "intent.insulti.parole",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": "Sì, ci sono. Ma non le hai mai imparate."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540588418,
+  "fallbackIntent": false,
+  "events": []
+}

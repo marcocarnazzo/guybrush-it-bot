@@ -1,0 +1,58 @@
+[
+  {
+    "id": "fa62ac3e-74a4-46ed-991c-35544d44be1e",
+    "data": [
+      {
+        "text": "Non ci sono ",
+        "userDefined": false
+      },
+      {
+        "text": "mosse",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " strategiche che possano aiutarti ",
+        "userDefined": false
+      },
+      {
+        "text": "ora",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588418
+  },
+  {
+    "id": "508ab8d0-e6e0-490b-808f-eed3a80e6320",
+    "data": [
+      {
+        "text": "Non ci sono ",
+        "userDefined": false
+      },
+      {
+        "text": "parole",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " per descrivere quanto ",
+        "userDefined": false
+      },
+      {
+        "text": "sei",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " disgustoso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540588418
+  }
+]
