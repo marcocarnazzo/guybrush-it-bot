@@ -5,7 +5,7 @@ E' una mia piccola prova per imparare Diagram Flow, nonché un omaggio al mitico
 
 ## Come usarlo
 
-Puoi aggiungerlo ai tuoi contatti Telegram: [lo trovi qui](t.me/guybrush_it_bot).
+Puoi aggiungerlo ai tuoi contatti Telegram: [lo trovi qui](https://t.me/guybrush_it_bot).
 
 Risponde a tutti gli insulti pirateschi e a qualcosina in più.
 
